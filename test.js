@@ -1,0 +1,1 @@
+document.getElementById('submitBtn').addEventListener('click', function(){var pwd=document.getElementById('pwd').value;if(pwd == 'HITV306N'){window.location.herf='http://jmys.duxietingshuo.net/dxtsstudent/#/pages/nwork/Settings';}});
